@@ -4,7 +4,7 @@
 The purpose of this project was to take our initial project that we created to find the winner of the US Congressional Precint Election and expand upon it. The project focused on finding the voter turnout in each county, the percentage of votes in each county, compared to the total votes in the election, and finding which county had the largest voter turnout.
 
 ## Summary
-# The analysis of the election shows that:
+## The analysis of the election shows that:
 There were 369,7111 votes cast in this Congressional precint election
 
 <img width="95" alt="image" src="https://user-images.githubusercontent.com/110848660/192868681-456d89b2-1894-4137-9dc6-95655e39fd65.png">
